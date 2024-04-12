@@ -1,0 +1,189 @@
+.cell-0 {
+  background-image: url("./faces/cell-0.png");
+  height: 16px;
+  width: 16px;
+}
+
+.cell-1 {
+  background-image: url("./faces/cell-1.png");
+  height: 16px;
+  width: 16px;
+}
+
+.cell-2 {
+  background-image: url("./faces/cell-2.png");
+  height: 16px;
+  width: 16px;
+}
+
+.cell-3 {
+  background-image: url("./faces/cell-3.png");
+  height: 16px;
+  width: 16px;
+}
+
+.cell-4 {
+  background-image: url("./faces/cell-4.png");
+  height: 16px;
+  width: 16px;
+}
+
+.cell-5 {
+  background-image: url("./faces/cell-5.png");
+  height: 16px;
+  width: 16px;
+}
+
+.cell-6 {
+  background-image: url("./faces/cell-6.png");
+  height: 16px;
+  width: 16px;
+}
+
+.cell-7 {
+  background-image: url("./faces/cell-7.png");
+  height: 16px;
+  width: 16px;
+}
+
+.cell-8 {
+  background-image: url("./faces/cell-8.png");
+  height: 16px;
+  width: 16px;
+}
+
+.cell-covered {
+  background-image: url("./faces/cell-covered.png");
+  height: 16px;
+  width: 16px;
+}
+
+.mine {
+  background-image: url("./faces/mine.png");
+  height: 16px;
+  width: 16px;
+}
+
+.mine-exploded {
+  background-image: url("./faces/mine-exploded.png");
+  height: 16px;
+  width: 16px;
+}
+
+.cell-flagged {
+  background-image: url("./faces/cell-flagged.png");
+  height: 16px;
+  width: 16px;
+}
+
+.display-digit-0 {
+  background-image: url("./faces/display-digit-0.png");
+  height: 23px;
+  width: 13px;
+}
+
+.display-digit-1 {
+  background-image: url("./faces/display-digit-1.png");
+  height: 23px;
+  width: 13px;
+}
+
+.display-digit-2 {
+  background-image: url("./faces/display-digit-2.png");
+  height: 23px;
+  width: 13px;
+}
+
+.display-digit-3 {
+  background-image: url("./faces/display-digit-3.png");
+  height: 23px;
+  width: 13px;
+}
+
+.display-digit-4 {
+  background-image: url("./faces/display-digit-4.png");
+  height: 23px;
+  width: 13px;
+}
+
+.display-digit-5 {
+  background-image: url("./faces/display-digit-5.png");
+  height: 23px;
+  width: 13px;
+}
+
+.display-digit-6 {
+  background-image: url("./faces/display-digit-6.png");
+  height: 23px;
+  width: 13px;
+}
+
+.display-digit-7 {
+  background-image: url("./faces/display-digit-7.png");
+  height: 23px;
+  width: 13px;
+}
+
+.display-digit-8 {
+  background-image: url("./faces/display-digit-8.png");
+  height: 23px;
+  width: 13px;
+}
+
+.display-digit-9 {
+  background-image: url("./faces/display-digit-9.png");
+  height: 23px;
+  width: 13px;
+}
+.face {
+  background-image: url("./faces/face.png");
+  height: 26px;
+  width: 26px;
+  margin-left: 1px;
+  margin-right: 1px;
+  align-self: center;
+}
+
+.face-active {
+  background-image: url("./faces/face-active.png");
+  height: 26px;
+  width: 26px;
+  margin-left: 1px;
+  margin-right: 1px;
+  align-self: center;
+}
+
+.face-lost {
+  background-image: url("./faces/face-lost.png");
+  height: 26px;
+  width: 26px;
+  margin-left: 1px;
+  margin-right: 1px;
+  align-self: center;
+}
+
+.face-won {
+  background-image: url("./faces/face-won.png");
+  height: 26px;
+  width: 26px;
+  margin-left: 1px;
+  margin-right: 1px;
+  align-self: center;
+}
+
+.face-clicking {
+  background-image: url("./faces/face-clicking.png");
+  height: 26px;
+  width: 26px;
+  margin-left: 1px;
+  margin-right: 1px;
+  align-self: center;
+}
+
+.minesweeper-icon {
+  background-image: url("./faces/minesweeper-icon.png");
+  background-size: 16px;
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+}
